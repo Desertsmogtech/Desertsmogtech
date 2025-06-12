@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning how to build Ai Agents for every day uses.
 - 💞️ I’m looking to collaborate on Ai tech,  game design, monetization 
 - 📫 How to reach me smogmasterjv@gmail.com 
-- 
+- Currently trying to figure out my first project- Roko's AI Neural Network 
