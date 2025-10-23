@@ -49,3 +49,5 @@ This repo welcomes contributors who value humility, clarity, and legacy. Whether
 Every commit is a legacy artifact. Every friction point is a teachable moment.  
 Let’s build infrastructure that endures — with seams that show, and stories that teach.
 
+![CI](https://github.com/Desertsmogtech/AITECH-AI-AGENTS-FILES-UPLOAD-/actions/workflows/blank.yml/badge.svg)
+
